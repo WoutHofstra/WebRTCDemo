@@ -5,5 +5,5 @@ I am making this project to have some C software to show on my GitHub page. I le
 This is a quick demo of WebRTC calling with full connection insights. 
 
 ## Structure
-[picture of my flowchart](webRTCpicture.png)
+![picture of my flowchart](webRTCpicture.png)
 
